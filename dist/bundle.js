@@ -10,6 +10,16 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./src/index.txt":
+/*!***********************!*\
+  !*** ./src/index.txt ***!
+  \***********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"raw-loader\");\n\n//# sourceURL=webpack://webpack-study/./src/index.txt?");
+
+/***/ }),
+
 /***/ "./src/helloword.js":
 /*!**************************!*\
   !*** ./src/helloword.js ***!
@@ -26,7 +36,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _helloword__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helloword */ \"./src/helloword.js\");\n\r\n\r\ndocument.write((0,_helloword__WEBPACK_IMPORTED_MODULE_0__.default)());\n\n//# sourceURL=webpack://webpack-study/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _helloword__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helloword */ \"./src/helloword.js\");\n/* harmony import */ var _index_txt__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.txt */ \"./src/index.txt\");\n\r\n\r\n\r\n\r\ndocument.write((0,_helloword__WEBPACK_IMPORTED_MODULE_0__.default)());\r\ndocument.write(_index_txt__WEBPACK_IMPORTED_MODULE_1__.default);\n\n//# sourceURL=webpack://webpack-study/./src/index.js?");
 
 /***/ })
 
