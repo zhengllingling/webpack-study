@@ -23,21 +23,47 @@
 //     mode: "development"
 // }
 
+// const path = require("path");
+
+// module.exports = {
+//     entry: "./src/index.js",
+//     output: {
+//         path: path.join(__dirname, "dist"),
+//         filename: 'bundle.js'
+//     },
+//     module: {
+//         rules: [
+//             {
+//                 test: /.txt$/i,
+//                 use: 'raw-loader'
+//             }
+//         ]
+//     },
+//     mode: "development"
+// }
+
 const path = require("path");
+const ZipPlugin = require("zip-webpack-plugin");
 
 module.exports = {
     entry: "./src/index.js",
     output: {
         path: path.join(__dirname, "dist"),
-        filename: 'bundle.js'
+        filename: "bundle.js"
     },
     module: {
         rules: [
             {
                 test: /.txt$/i,
-                use: 'raw-loader'
+                use: "raw-loader"
             }
         ]
     },
+    plugins: [
+        new ZipPlugin({
+            path: path.join(__dirname, "dist"),
+            filename: 'webpackStudy.zip'
+        })
+    ],
     mode: "development"
 }

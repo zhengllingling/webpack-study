@@ -32,7 +32,20 @@ file-loader 图片、字体等文件的打包
 raw-loader 文件以字符串的形式导入
 thread-loader 多进程打包js、css 加快打包速度
 
-mode
 plugins
+1.增强webpack的功能
+2.用于打包出去的js文件优化，资源管理，环境变量的注入等
+3.作用于整个构建过程
+4.任何loader无法实现的事情，都可以用plugins来实现
+5.常用的plugins
+CommonsChunkPlugin 将同一个js提取成公共的js
+CleanWebpackPlugin 清理构建目录
+ExtractTextWebpackPlugin 提取css成独立的css文件
+CopyWebpackPlugin 将文件或文件夹拷贝到构建的输出目录
+HtmlWebpackPlugin 创建html文件加载输出的bundle
+UglifyWebpackPlugin 压缩js
+ZipWebpackPlugin 将打包出的资源生成一个zip
+
+mode
 
 需要安装 nodejs 、npm
