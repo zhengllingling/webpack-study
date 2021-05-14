@@ -1,1 +1,0 @@
-(()=>{"use strict";document.write("hello word"),document.write("raw-loader")})();

@@ -1,6 +1,21 @@
-import helloword from "./helloword";
+// const hello = (name) => {
+//     return `hello ${name}`
+// }
 
-import txt from "./index.txt";
+// const str = hello('Ema');
 
-document.write(helloword());
-document.write(txt);
+// document.write(str);
+
+import React from "react";
+import ReactDOM from "react-dom";
+
+class Search extends React.Component {
+    render() {
+        return <div>Search Div</div>
+    }
+}
+
+ReactDOM.render(
+    <Search/>,
+    document.getElementById("app")
+)
