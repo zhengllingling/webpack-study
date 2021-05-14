@@ -31,6 +31,7 @@ ts-loader ts ——> js
 file-loader 图片、字体等文件的打包
 raw-loader 文件以字符串的形式导入
 thread-loader 多进程打包js、css 加快打包速度
+4.loader是链式调用的，执行顺序是从右向左
 
 plugins
 1.增强webpack的功能
