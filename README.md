@@ -46,6 +46,9 @@ HtmlWebpackPlugin 创建html文件加载输出的bundle
 UglifyWebpackPlugin 压缩js
 ZipWebpackPlugin 将打包出的资源生成一个zip
 
-mode
+mode  
+1.配置环境摸模式，有三种development、production、mode
+2.process.env.NODE_ENV
+3.开启不同的配置，webpack内置的就会做不同的优化
 
 需要安装 nodejs 、npm
