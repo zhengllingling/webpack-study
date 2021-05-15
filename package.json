@@ -2,9 +2,9 @@
   "name": "webpack-study",
   "version": "1.0.0",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --config webpack.pro.js",
     "watch": "webpack --watch",
-    "dev": "webpack-dev-server --open"
+    "dev": "webpack-dev-server --config webpack.dev.js --open"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +17,7 @@
     "babel-loader": "^8.2.2",
     "css-loader": "^5.2.4",
     "file-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^1.6.0",
     "node-sass": "^6.0.0",
     "raw-loader": "^4.0.2",
     "react": "^17.0.2",
