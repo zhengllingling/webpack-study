@@ -1,4 +1,9 @@
+@font-face {
+    font-family: "hellofont";
+    src: url("../assets/hellofont.ttf");
+}
 .search {
     font-size: 20px;
     color: #00d12e;
+    font-family: hellofont
 }

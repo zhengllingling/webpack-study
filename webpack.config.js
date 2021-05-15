@@ -96,6 +96,25 @@ module.exports = {
                     "css-loader",
                     "sass-loader"
                 ]
+            },
+            // {
+            //     test: /.(jpg|jpeg|png|gif)$/,
+            //     use: "file-loader"
+            // },
+            {
+                test: /.(jpg|jpeg|png|gif)$/,
+                use: [
+                    {
+                        loader: "url-loader",
+                        options:{
+                            limit: 10240
+                        }
+                    }
+                ]
+            },
+            {
+                test: /.(woff|woff2|eot|ttf|otf)$/,
+                use: "file-loader"
             }
         ]
     },
