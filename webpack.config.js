@@ -69,6 +69,7 @@
 // }
 
 const path = require("path");
+const webpack = require("webpack");
 
 module.exports = {
     entry : "./src/index.js",
@@ -118,5 +119,13 @@ module.exports = {
             }
         ]
     },
-    mode: "development"
+    mode: "development",
+    // watch: true // 开启文件监听 文件有变化会自动打包 - 还可以配置其他参数 参考文档 另外一种方式可以在命令行中加--watch
+    plugins: [
+        new webpack.HotModuleReplacementPlugin()
+    ],
+    devServer: {
+        contentBase: "./dist",
+        hot: true
+    }
 }

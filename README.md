@@ -53,3 +53,7 @@ mode
 3.开启不同的配置，webpack内置的就会做不同的优化
 
 需要安装 nodejs 、npm
+
+
+热更新
+webpack complie HDM-Server bundle.js HDM-Runtime

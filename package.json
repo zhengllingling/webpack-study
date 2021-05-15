@@ -2,7 +2,9 @@
   "name": "webpack-study",
   "version": "1.0.0",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack-dev-server --open"
   },
   "keywords": [],
   "author": "",
@@ -24,7 +26,8 @@
     "style-loader": "^2.0.0",
     "url-loader": "^4.1.1",
     "webpack": "^5.37.0",
-    "webpack-cli": "^4.7.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2",
     "zip-webpack-plugin": "^4.0.1"
   }
 }

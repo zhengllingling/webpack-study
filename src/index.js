@@ -15,7 +15,7 @@ import logo from "../src/assets/logo-wap.png";
 class Search extends React.Component {
     render() {
         return <div class="search">
-            Search Div
+            Search Div 内容
             <img src={logo} />
         </div>
     }
