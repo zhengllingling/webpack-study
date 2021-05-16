@@ -8,9 +8,8 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-// import "../src/style/search.css";
-import "../src/style/search.scss";
-import logo from "../src/assets/logo-wap.png";
+import "../../style/search.scss"
+import logo from "../../assets/logo-wap.png";
 
 import "lib-flexible/flexible";
 

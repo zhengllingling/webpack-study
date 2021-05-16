@@ -44,6 +44,8 @@
     "IE >= 9"
   ],
   "dependencies": {
+    "glob": "^7.1.7",
+    "inline-html-loader": "^0.1.0",
     "px2rem-loader": "^0.1.9"
   }
 }

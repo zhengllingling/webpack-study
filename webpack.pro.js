@@ -1,16 +1,51 @@
 const path = require("path");
+const glob = require("glob");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 // const OptimizeCssAssetsPlugin= require("optimize-css-assets-webpack-plugin")
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
+
+const setMAP = () => {
+    const entry = {};
+    const htmlWebpackPlugins = [];
+    const entryFiles = glob.sync(path.join(__dirname, "./src/views/*/index.js"));
+    Object.keys(entryFiles).map((index) => {
+        const entryFile = entryFiles[index];
+        const match = entryFile.match(/src\/views\/(.*)\/index\.js/);
+        console.log(match);
+        const pageName = match && match[1];
+        entry[pageName] = entryFile;
+        htmlWebpackPlugins.push(new HtmlWebpackPlugin({
+            inlineSource: '.css$',
+            template: path.join(__dirname, `src/views/${pageName}/index.html`),
+            filename:`${pageName}.html`,
+            chunks: ['vendors', pageName],
+            inject: true,
+            minify:{
+                html5:true,
+                collapseWhitespace: true,
+                preserveLineBreaks:false,
+                minifyCSS: true,
+                minifyJS: true,
+                removeComments: false
+            }
+        }))
+    })
+    return { entry, htmlWebpackPlugins }
+}
+const { entry, htmlWebpackPlugins } = setMAP();
 module.exports = {
-    entry : "./src/index.js",
+    entry : entry,
     output: {
         path: path.join(__dirname, "dist"),
         filename: "[name]_[chunkhash:8].js"
     },
     module: {
         rules: [
+            {
+                test: /.html$/,
+                use: "inline-html-loader"
+            },
             {
                 test: /.js$/i,
                 use: "babel-loader"
@@ -73,14 +108,7 @@ module.exports = {
         new MiniCssExtractPlugin({
             filename: "[name]_[contenthash:8].css"
         }),
-        // new OptimizeCssAssetsPlugin({
-        //    assetNameRegExp: /\.css$/g,
-        //    cssProcessor: require("cssnano")
-        // })
-        new HtmlWebpackPlugin({
-            template: "./src/search.html"
-        }),
         new CleanWebpackPlugin()
-    ],
+    ].concat(htmlWebpackPlugins),
     mode: "production"
 }
