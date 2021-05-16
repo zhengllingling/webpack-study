@@ -12,6 +12,8 @@ import ReactDOM from "react-dom";
 import "../src/style/search.scss";
 import logo from "../src/assets/logo-wap.png";
 
+import "lib-flexible/flexible";
+
 class Search extends React.Component {
     render() {
         return <div class="search">

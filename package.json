@@ -21,6 +21,7 @@
     "cssnano": "^5.0.2",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.3.1",
+    "lib-flexible": "^0.3.2",
     "mini-css-extract-plugin": "^1.6.0",
     "node-sass": "^6.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
@@ -41,5 +42,8 @@
     "ios >= 6",
     "Android >= 4",
     "IE >= 9"
-  ]
+  ],
+  "dependencies": {
+    "px2rem-loader": "^0.1.9"
+  }
 }

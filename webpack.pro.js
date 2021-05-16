@@ -22,7 +22,14 @@ module.exports = {
                     {
                         loader: "css-loader",
                         options: {
-                            importLoaders: 2, // 在这之前还需加载几个loader
+                            importLoaders: 3, // 在这之前还需加载几个loader
+                        }
+                    },
+                    {
+                        loader: "px2rem-loader",
+                        options: {
+                            remUnit: 108,
+                            remPrecision: 8
                         }
                     },
                     {
