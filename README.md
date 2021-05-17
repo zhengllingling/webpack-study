@@ -57,3 +57,19 @@ mode
 
 热更新
 webpack complie HDM-Server bundle.js HDM-Runtime
+
+
+
+
+
+webpack优化策略
+(1) 构建速度
+多进程打包 thread-loader（放在其他loader之前）
+exclude/include 确定loader的规则范围 缩小打包作用域
+开启babel-loader等lodaer的缓存机制，提升构建速度
+多线程打包
+(2) 优化体积
+压缩代码
+提起公共资源
+Tree-shaking 
+图片压缩
