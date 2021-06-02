@@ -1,0 +1,3110 @@
+[
+  'src/views/index/index.js',
+  'index',
+  index: 21,
+  input: 'E:/zll/webpack-study/src/views/index/index.js',
+  groups: undefined
+]
+[
+  'src/views/search/index.js',
+  'search',
+  index: 21,
+  input: 'E:/zll/webpack-study/src/views/search/index.js',
+  groups: undefined
+]
+{
+  "hash": "a4eb9e4129e76927e3f7",
+  "version": "5.37.0",
+  "time": 5173,
+  "builtAt": 1622640739154,
+  "publicPath": "auto",
+  "outputPath": "E:\\zll\\webpack-study\\dist",
+  "assetsByChunkName": {
+    "index": [
+      "index_3e00a5c6.js",
+      "index_d0599d48.css"
+    ],
+    "search": [
+      "search_7518c6c6.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "5ad817c3a3852757f118cdc291b7e281.ttf",
+      "size": 3104092,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "src/assets/hellofont.ttf",
+        "size": 3104092
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "index"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        826
+      ],
+      "isOverSizeLimit": true
+    },
+    {
+      "type": "asset",
+      "name": "index_3e00a5c6.js",
+      "size": 134273,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "chunkhash": "3e00a5c6",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "index_3e00a5c6.js.LICENSE.txt"
+        },
+        "size": 134273
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "index_3e00a5c6.js.LICENSE.txt",
+          "size": 788,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 788
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        826
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "d3f4bf70f2ffdc11072b782a6114c631.png",
+      "size": 8749,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "src/assets/logo-wap.png",
+        "size": 8749
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "index"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        826
+      ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 335,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 335
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "search.html",
+      "size": 288,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 288
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "index_d0599d48.css",
+      "size": 268,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "d0599d48",
+        "size": 268
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        826
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "search_7518c6c6.js",
+      "size": 38,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "chunkhash": "7518c6c6",
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 38
+      },
+      "chunkNames": [
+        "search"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        464
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 40,
+      "sizes": {
+        "javascript": 40
+      },
+      "names": [
+        "search"
+      ],
+      "idHints": [],
+      "runtime": [
+        "search"
+      ],
+      "files": [
+        "search_7518c6c6.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7518c6c667df2eb43823",
+      "childrenByOrder": {},
+      "id": 464,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "search",
+          "request": "E:/zll/webpack-study/src/views/search/index.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 205498,
+      "sizes": {
+        "javascript": 204143,
+        "css/mini-extract": 267,
+        "runtime": 1088
+      },
+      "names": [
+        "index"
+      ],
+      "idHints": [],
+      "runtime": [
+        "index"
+      ],
+      "files": [
+        "index_3e00a5c6.js",
+        "index_d0599d48.css"
+      ],
+      "auxiliaryFiles": [
+        "5ad817c3a3852757f118cdc291b7e281.ttf",
+        "d3f4bf70f2ffdc11072b782a6114c631.png"
+      ],
+      "hash": "3e00a5c6181571d94953",
+      "childrenByOrder": {},
+      "id": 826,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "index",
+          "request": "E:/zll/webpack-study/src/views/index/index.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "layer": null,
+      "size": 3963,
+      "sizes": {
+        "javascript": 3963
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+      "name": "./src/views/index/index.js + 1 modules",
+      "nameForCondition": "E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 10,
+      "postOrderIndex": 10,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 217,
+      "chunks": [
+        826
+      ],
+      "assets": [
+        "d3f4bf70f2ffdc11072b782a6114c631.png"
+      ],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "E:/zll/webpack-study/src/views/index/index.js",
+          "loc": "index",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/lib-flexible/flexible.js: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-dom/index.js: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module"
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 3883,
+          "sizes": {
+            "javascript": 3883
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "nameForCondition": "E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 10,
+          "postOrderIndex": 10,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 34:0-57:19"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 80,
+          "sizes": {
+            "javascript": 80
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\file-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[0]!E:\\zll\\webpack-study\\src\\assets\\logo-wap.png",
+          "name": "./src/assets/logo-wap.png",
+          "nameForCondition": "E:\\zll\\webpack-study\\src\\assets\\logo-wap.png",
+          "index": 9,
+          "preOrderIndex": 9,
+          "index2": 8,
+          "postOrderIndex": 8,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "issuerName": "./src/views/index/index.js",
+          "issuerPath": [
+            {
+              "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+              "name": "./src/views/index/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [
+            "d3f4bf70f2ffdc11072b782a6114c631.png"
+          ],
+          "reasons": [
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+              "module": "./src/views/index/index.js",
+              "moduleName": "./src/views/index/index.js",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+              "resolvedModule": "./src/views/index/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../assets/logo-wap.png",
+              "loc": "31:0-45",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+              "module": "./src/views/index/index.js",
+              "moduleName": "./src/views/index/index.js",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+              "resolvedModule": "./src/views/index/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../assets/logo-wap.png",
+              "loc": "51:13-17",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExportDefaultDeclaration) with side effects in source code at 1:0-80"
+          ],
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 40,
+      "sizes": {
+        "javascript": 40
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\search\\index.js",
+      "name": "./src/views/search/index.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\src\\views\\search\\index.js",
+      "index": 11,
+      "preOrderIndex": 11,
+      "index2": 11,
+      "postOrderIndex": 11,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 175,
+      "issuerId": null,
+      "chunks": [
+        464
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "E:/zll/webpack-study/src/views/search/index.js",
+          "loc": "search",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-40",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 189,
+      "sizes": {
+        "javascript": 189
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+      "name": "./node_modules/react/index.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+      "issuerName": "./src/views/index/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 466,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "15:9-25",
+          "moduleId": 748,
+          "resolvedModuleId": 748
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "28:0-26",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "48:26-45",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "50:49-68",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "57:2-17",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "59:30-49",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "Children",
+        "Component",
+        "Fragment",
+        "Profiler",
+        "PureComponent",
+        "StrictMode",
+        "Suspense",
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "cloneElement",
+        "createContext",
+        "createElement",
+        "createFactory",
+        "createRef",
+        "forwardRef",
+        "isValidElement",
+        "lazy",
+        "memo",
+        "useCallback",
+        "useContext",
+        "useDebugValue",
+        "useEffect",
+        "useImperativeHandle",
+        "useLayoutEffect",
+        "useMemo",
+        "useReducer",
+        "useRef",
+        "useState",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 4:2-60",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1352,
+      "sizes": {
+        "javascript": 1352
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+      "issuerName": "./src/views/index/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 116,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react-dom",
+          "loc": "29:0-33",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react-dom",
+          "loc": "59:0-15",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "createPortal",
+        "findDOMNode",
+        "flushSync",
+        "hydrate",
+        "render",
+        "unmountComponentAtNode",
+        "unstable_batchedUpdates",
+        "unstable_createPortal",
+        "unstable_renderSubtreeIntoContainer",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 33:2-13",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 80,
+      "sizes": {
+        "javascript": 80
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\file-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[0]!E:\\zll\\webpack-study\\src\\assets\\logo-wap.png",
+      "name": "./src/assets/logo-wap.png",
+      "nameForCondition": "E:\\zll\\webpack-study\\src\\assets\\logo-wap.png",
+      "index": 9,
+      "preOrderIndex": 9,
+      "index2": 8,
+      "postOrderIndex": 8,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+      "issuerName": "./src/views/index/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [
+        "d3f4bf70f2ffdc11072b782a6114c631.png"
+      ],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "module": "./src/views/index/index.js",
+          "moduleName": "./src/views/index/index.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../assets/logo-wap.png",
+          "loc": "31:0-45",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "module": "./src/views/index/index.js",
+          "moduleName": "./src/views/index/index.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../assets/logo-wap.png",
+          "loc": "51:13-17",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExportDefaultDeclaration) with side effects in source code at 1:0-80"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 3410,
+      "sizes": {
+        "javascript": 3410
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\lib-flexible\\flexible.js",
+      "name": "./node_modules/lib-flexible/flexible.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\lib-flexible\\flexible.js",
+      "index": 10,
+      "preOrderIndex": 10,
+      "index2": 9,
+      "postOrderIndex": 9,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+      "issuerName": "./src/views/index/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 718,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lib-flexible/flexible",
+          "loc": "32:0-31",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 3:0-132:50",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 50,
+      "sizes": {
+        "javascript": 50
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+      "name": "./src/style/search.scss",
+      "nameForCondition": "E:\\zll\\webpack-study\\src\\style\\search.scss",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+      "issuerName": "./src/views/index/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js|625bafcdfa0f4a0e3c69d834c9066a83",
+          "module": "./src/views/index/index.js + 1 modules",
+          "moduleName": "./src/views/index/index.js + 1 modules",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "resolvedModule": "./src/views/index/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../style/search.scss",
+          "loc": "30:0-33",
+          "moduleId": 217,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 8518,
+      "sizes": {
+        "javascript": 8518
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\cjs\\react.production.min.js",
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\react\\cjs\\react.production.min.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+      "issuerName": "./node_modules/react/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+          "name": "./node_modules/react/index.js",
+          "id": 466
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 751,
+      "issuerId": 466,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+          "module": "./node_modules/react/index.js",
+          "moduleName": "./node_modules/react/index.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+          "resolvedModule": "./node_modules/react/index.js",
+          "type": "cjs export require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./cjs/react.production.min.js",
+          "loc": "4:2-59",
+          "moduleId": 466,
+          "resolvedModuleId": 466
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "Children",
+        "Component",
+        "Fragment",
+        "Profiler",
+        "PureComponent",
+        "StrictMode",
+        "Suspense",
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "cloneElement",
+        "createContext",
+        "createElement",
+        "createFactory",
+        "createRef",
+        "forwardRef",
+        "isValidElement",
+        "lazy",
+        "memo",
+        "useCallback",
+        "useContext",
+        "useDebugValue",
+        "useEffect",
+        "useImperativeHandle",
+        "useLayoutEffect",
+        "useMemo",
+        "useReducer",
+        "useRef",
+        "useState",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 11:0-13:14",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 177479,
+      "sizes": {
+        "javascript": 177479
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+      "issuerName": "./node_modules/react-dom/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "id": 116
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 748,
+      "issuerId": 116,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+          "module": "./node_modules/react-dom/index.js",
+          "moduleName": "./node_modules/react-dom/index.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+          "resolvedModule": "./node_modules/react-dom/index.js",
+          "type": "cjs export require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./cjs/react-dom.production.min.js",
+          "loc": "34:2-63",
+          "moduleId": 116,
+          "resolvedModuleId": 116
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "createPortal",
+        "findDOMNode",
+        "flushSync",
+        "hydrate",
+        "render",
+        "unmountComponentAtNode",
+        "unstable_batchedUpdates",
+        "unstable_createPortal",
+        "unstable_renderSubtreeIntoContainer",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 15:0-17:29",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "css/mini-extract",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "css/mini-extract": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "css|E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss|0",
+      "name": "css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+      "nameForCondition": "E:\\zll\\webpack-study\\src\\style\\search.scss",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+      "issuerName": "./src/style/search.scss",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "name": "./src/style/search.scss",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [
+        "5ad817c3a3852757f118cdc291b7e281.ttf"
+      ],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "module": "./src/style/search.scss",
+          "moduleName": "./src/style/search.scss",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "resolvedModule": "./src/style/search.scss",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2226,
+      "sizes": {
+        "javascript": 2226
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\object-assign\\index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\object-assign\\index.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\cjs\\react.production.min.js",
+      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\index.js",
+          "name": "./node_modules/react/index.js",
+          "id": 466
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\cjs\\react.production.min.js",
+          "name": "./node_modules/react/cjs/react.production.min.js",
+          "id": 751
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 347,
+      "issuerId": 751,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\object-assign\\index.js",
+          "module": "./node_modules/object-assign/index.js",
+          "moduleName": "./node_modules/object-assign/index.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\object-assign\\index.js",
+          "resolvedModule": "./node_modules/object-assign/index.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "69:0-14",
+          "moduleId": 347,
+          "resolvedModuleId": 347
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "object-assign",
+          "loc": "16:8-32",
+          "moduleId": 748,
+          "resolvedModuleId": 748
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\cjs\\react.production.min.js",
+          "module": "./node_modules/react/cjs/react.production.min.js",
+          "moduleName": "./node_modules/react/cjs/react.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react\\cjs\\react.production.min.js",
+          "resolvedModule": "./node_modules/react/cjs/react.production.min.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "object-assign",
+          "loc": "11:8-32",
+          "moduleId": 751,
+          "resolvedModuleId": 751
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 69:0-14",
+        "Statement (VariableDeclaration) with side effects in source code at 9:0-57",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 3
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 197,
+      "sizes": {
+        "javascript": 197
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\index.js",
+      "name": "./node_modules/scheduler/index.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\scheduler\\index.js",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "id": 116
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "id": 748
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 767,
+      "issuerId": 748,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "scheduler",
+          "loc": "17:8-28",
+          "moduleId": 748,
+          "resolvedModuleId": 748
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "unstable_IdlePriority",
+        "unstable_ImmediatePriority",
+        "unstable_LowPriority",
+        "unstable_NormalPriority",
+        "unstable_Profiling",
+        "unstable_UserBlockingPriority",
+        "unstable_cancelCallback",
+        "unstable_continueExecution",
+        "unstable_forceFrameRate",
+        "unstable_getCurrentPriorityLevel",
+        "unstable_getFirstCallbackNode",
+        "unstable_next",
+        "unstable_now",
+        "unstable_pauseExecution",
+        "unstable_requestPaint",
+        "unstable_runWithPriority",
+        "unstable_scheduleCallback",
+        "unstable_shouldYield",
+        "unstable_wrapCallback"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 4:2-64",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 3
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 6809,
+      "sizes": {
+        "javascript": 6809
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+      "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+      "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\index.js",
+      "issuerName": "./node_modules/scheduler/index.js",
+      "issuerPath": [
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.js",
+          "name": "./src/views/index/index.js",
+          "id": null
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "id": 116
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "id": 748
+        },
+        {
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\index.js",
+          "name": "./node_modules/scheduler/index.js",
+          "id": 767
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 794,
+      "issuerId": 767,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "33:14-34",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "75:11-31",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "89:14-34",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "107:8-28",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "196:67-95",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "203:12-32",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\cjs\\scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "296:10-30",
+          "moduleId": 794,
+          "resolvedModuleId": 794
+        },
+        {
+          "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\index.js",
+          "module": "./node_modules/scheduler/index.js",
+          "moduleName": "./node_modules/scheduler/index.js",
+          "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\scheduler\\index.js",
+          "resolvedModule": "./node_modules/scheduler/index.js",
+          "type": "cjs export require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./cjs/scheduler.production.min.js",
+          "loc": "4:2-63",
+          "moduleId": 767,
+          "resolvedModuleId": 767
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "unstable_IdlePriority",
+        "unstable_ImmediatePriority",
+        "unstable_LowPriority",
+        "unstable_NormalPriority",
+        "unstable_Profiling",
+        "unstable_UserBlockingPriority",
+        "unstable_cancelCallback",
+        "unstable_continueExecution",
+        "unstable_forceFrameRate",
+        "unstable_getCurrentPriorityLevel",
+        "unstable_getFirstCallbackNode",
+        "unstable_next",
+        "unstable_now",
+        "unstable_pauseExecution",
+        "unstable_requestPaint",
+        "unstable_runWithPriority",
+        "unstable_scheduleCallback",
+        "unstable_shouldYield",
+        "unstable_wrapCallback"
+      ],
+      "optimizationBailout": [
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 33:14-34",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 75:11-31",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 89:14-34",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 107:8-28",
+        "CommonJS bailout: exports.unstable_shouldYield(...) prevents optimization as exports is passed as call context at 196:67-95",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 203:12-32",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 296:10-30",
+        "Statement (IfStatement) with side effects in source code at 13:0-26:1",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 4
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 867,
+      "sizes": {
+        "runtime": 867
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/publicPath",
+      "name": "webpack/runtime/publicPath",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        826
+      ],
+      "assets": [
+        {
+          "name": "index_3e00a5c6.js",
+          "size": 134273
+        },
+        {
+          "name": "index_d0599d48.css",
+          "size": 268
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 134541,
+      "auxiliaryAssets": [
+        {
+          "name": "5ad817c3a3852757f118cdc291b7e281.ttf",
+          "size": 3104092
+        },
+        {
+          "name": "d3f4bf70f2ffdc11072b782a6114c631.png",
+          "size": 8749
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 3112841,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "search": {
+      "name": "search",
+      "chunks": [
+        464
+      ],
+      "assets": [
+        {
+          "name": "search_7518c6c6.js",
+          "size": 38
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 38,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        826
+      ],
+      "assets": [
+        {
+          "name": "index_3e00a5c6.js",
+          "size": 134273
+        },
+        {
+          "name": "index_d0599d48.css",
+          "size": 268
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 134541,
+      "auxiliaryAssets": [
+        {
+          "name": "5ad817c3a3852757f118cdc291b7e281.ttf",
+          "size": 3104092
+        },
+        {
+          "name": "d3f4bf70f2ffdc11072b782a6114c631.png",
+          "size": 8749
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 3112841,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "search": {
+      "name": "search",
+      "chunks": [
+        464
+      ],
+      "assets": [
+        {
+          "name": "search_7518c6c6.js",
+          "size": 38
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 38,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [
+    {
+      "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  5ad817c3a3852757f118cdc291b7e281.ttf (2.96 MiB)",
+      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  5ad817c3a3852757f118cdc291b7e281.ttf (2.96 MiB)\n    at E:\\zll\\webpack-study\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:134:7\n    at Hook.eval [as callAsync] (eval at create (E:\\zll\\webpack-study\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:7:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (E:\\zll\\webpack-study\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at E:\\zll\\webpack-study\\node_modules\\webpack\\lib\\Compiler.js:841:27\n    at E:\\zll\\webpack-study\\node_modules\\neo-async\\async.js:2818:7\n    at done (E:\\zll\\webpack-study\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (E:\\zll\\webpack-study\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:4:1)\n    at E:\\zll\\webpack-study\\node_modules\\webpack\\lib\\Compiler.js:695:33\n    at E:\\zll\\webpack-study\\node_modules\\graceful-fs\\graceful-fs.js:144:16\n    at E:\\zll\\webpack-study\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (fs.js:156:23)"
+    },
+    {
+      "message": "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/",
+      "stack": "NoAsyncChunksWarning: webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/\n    at E:\\zll\\webpack-study\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:153:21\n    at Hook.eval [as callAsync] (eval at create (E:\\zll\\webpack-study\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:7:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (E:\\zll\\webpack-study\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at E:\\zll\\webpack-study\\node_modules\\webpack\\lib\\Compiler.js:841:27\n    at E:\\zll\\webpack-study\\node_modules\\neo-async\\async.js:2818:7\n    at done (E:\\zll\\webpack-study\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (E:\\zll\\webpack-study\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:4:1)\n    at E:\\zll\\webpack-study\\node_modules\\webpack\\lib\\Compiler.js:695:33\n    at E:\\zll\\webpack-study\\node_modules\\graceful-fs\\graceful-fs.js:144:16\n    at E:\\zll\\webpack-study\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (fs.js:156:23)"
+    }
+  ],
+  "warningsCount": 2,
+  "children": [
+    {
+      "name": "HtmlWebpackCompiler",
+      "hash": "ef7dc1a8f2beee5a514a",
+      "version": "5.37.0",
+      "time": 247,
+      "builtAt": 1622640734265,
+      "publicPath": "",
+      "outputPath": "E:\\zll\\webpack-study\\dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 862,
+          "sizes": {
+            "javascript": 407,
+            "runtime": 455
+          },
+          "names": [
+            "HtmlWebpackPlugin_1-0"
+          ],
+          "idHints": [],
+          "runtime": [
+            "HtmlWebpackPlugin_1-0"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "f62c4452bb2cbb99f361",
+          "childrenByOrder": {},
+          "id": 251,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_1-0",
+              "request": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\src\\views\\search\\index.html"
+            },
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_1-0",
+              "request": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;"
+            }
+          ]
+        },
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 861,
+          "sizes": {
+            "javascript": 406,
+            "runtime": 455
+          },
+          "names": [
+            "HtmlWebpackPlugin_0-0"
+          ],
+          "idHints": [],
+          "runtime": [
+            "HtmlWebpackPlugin_0-0"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "3ceb4c10b30889ad0a26",
+          "childrenByOrder": {},
+          "id": 563,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "request": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\src\\views\\index\\index.html"
+            },
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "request": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;"
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "layer": null,
+          "size": 77,
+          "sizes": {
+            "javascript": 77
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "name": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "nameForCondition": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 295,
+          "issuerId": null,
+          "chunks": [
+            251,
+            563
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "loc": "HtmlWebpackPlugin_1-0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-77"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 329,
+          "sizes": {
+            "javascript": 329
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\node_modules\\inline-html-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.html",
+          "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/index/index.html",
+          "nameForCondition": "E:\\zll\\webpack-study\\src\\views\\index\\index.html",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 703,
+          "issuerId": null,
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\node_modules\\inline-html-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.html",
+              "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/index/index.html",
+              "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/index/index.html",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\node_modules\\inline-html-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\index\\index.html",
+              "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/index/index.html",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 703,
+              "resolvedModuleId": 703
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\src\\views\\index\\index.html",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-329",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 330,
+          "sizes": {
+            "javascript": 330
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\node_modules\\inline-html-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\search\\index.html",
+          "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/search/index.html",
+          "nameForCondition": "E:\\zll\\webpack-study\\src\\views\\search\\index.html",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 979,
+          "issuerId": null,
+          "chunks": [
+            251
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\node_modules\\inline-html-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\search\\index.html",
+              "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/search/index.html",
+              "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/search/index.html",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\node_modules\\inline-html-loader\\lib\\index.js!E:\\zll\\webpack-study\\src\\views\\search\\index.html",
+              "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src/views/search/index.html",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:0-14",
+              "moduleId": 979,
+              "resolvedModuleId": 979
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "E:\\zll\\webpack-study\\node_modules\\html-webpack-plugin\\lib\\loader.js!E:\\zll\\webpack-study\\src\\views\\search\\index.html",
+              "loc": "HtmlWebpackPlugin_1-0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-330",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            251
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "runtime": 27
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "runtime": 27
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            251
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 325,
+          "sizes": {
+            "runtime": 325
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/require chunk loading",
+          "name": "webpack/runtime/require chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 325,
+          "sizes": {
+            "runtime": 325
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/require chunk loading",
+          "name": "webpack/runtime/require chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            251
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "entrypoints": {
+        "HtmlWebpackPlugin_0-0": {
+          "name": "HtmlWebpackPlugin_0-0",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        },
+        "HtmlWebpackPlugin_1-0": {
+          "name": "HtmlWebpackPlugin_1-0",
+          "chunks": [
+            251
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0-0": {
+          "name": "HtmlWebpackPlugin_0-0",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        },
+        "HtmlWebpackPlugin_1-0": {
+          "name": "HtmlWebpackPlugin_1-0",
+          "chunks": [
+            251
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    },
+    {
+      "name": "mini-css-extract-plugin E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+      "hash": "364e4ceef5941df0d286",
+      "version": "5.37.0",
+      "time": 2017,
+      "builtAt": 1622640737023,
+      "publicPath": "",
+      "outputPath": "E:\\zll\\webpack-study\\dist",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "type": "asset",
+          "name": "5ad817c3a3852757f118cdc291b7e281.ttf",
+          "size": 3104092,
+          "emitted": false,
+          "comparedForEmit": false,
+          "cached": true,
+          "info": {
+            "immutable": true,
+            "sourceFilename": "src/assets/hellofont.ttf"
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "child"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            396
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 4402,
+          "sizes": {
+            "javascript": 3378,
+            "runtime": 1024
+          },
+          "names": [
+            "child"
+          ],
+          "idHints": [],
+          "runtime": [
+            "child"
+          ],
+          "files": [],
+          "auxiliaryFiles": [
+            "5ad817c3a3852757f118cdc291b7e281.ttf"
+          ],
+          "hash": "cce46ed3ca2860298d40",
+          "childrenByOrder": {},
+          "id": 396,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "child",
+              "request": "!!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss"
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 863,
+          "sizes": {
+            "javascript": 863
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "name": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+          "nameForCondition": "E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 294,
+          "issuerId": null,
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "loc": "child",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 5:0-84",
+            "ModuleConcatenation bailout: Module uses module.id"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1605,
+          "sizes": {
+            "javascript": 1605
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "name": "./node_modules/css-loader/dist/runtime/api.js",
+          "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+          "issuerPath": [
+            {
+              "identifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "name": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "id": 294
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 705,
+          "issuerId": 294,
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "module": "./node_modules/css-loader/dist/runtime/api.js",
+              "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "9:0-14",
+              "moduleId": 705,
+              "resolvedModuleId": 705
+            },
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "2:0-92",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            },
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "5:30-57",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 9:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 830,
+          "sizes": {
+            "javascript": 830
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\getUrl.js",
+          "name": "./node_modules/css-loader/dist/runtime/getUrl.js",
+          "nameForCondition": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\getUrl.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+          "issuerPath": [
+            {
+              "identifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "name": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "id": 294
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 742,
+          "issuerId": 294,
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\getUrl.js",
+              "module": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "moduleName": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\babel-loader\\lib\\index.js!E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\runtime\\getUrl.js",
+              "resolvedModule": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "3:0-14",
+              "moduleId": 742,
+              "resolvedModuleId": 742
+            },
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/getUrl.js",
+              "loc": "3:0-99",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            },
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/getUrl.js",
+              "loc": "6:41-72",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 3:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 3:0-34:2",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 80,
+          "sizes": {
+            "javascript": 80
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "E:\\zll\\webpack-study\\node_modules\\file-loader\\dist\\cjs.js??ruleSet[1].rules[4].use[0]!E:\\zll\\webpack-study\\src\\assets\\hellofont.ttf",
+          "name": "./src/assets/hellofont.ttf",
+          "nameForCondition": "E:\\zll\\webpack-study\\src\\assets\\hellofont.ttf",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+          "issuerPath": [
+            {
+              "identifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "name": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "id": 294
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 316,
+          "issuerId": 294,
+          "chunks": [
+            396
+          ],
+          "assets": [
+            "5ad817c3a3852757f118cdc291b7e281.ttf"
+          ],
+          "reasons": [
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../assets/hellofont.ttf",
+              "loc": "4:0-68",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            },
+            {
+              "moduleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "resolvedModuleIdentifier": "E:\\zll\\webpack-study\\node_modules\\css-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[1]!E:\\zll\\webpack-study\\node_modules\\px2rem-loader\\index.js??ruleSet[1].rules[2].use[2]!E:\\zll\\webpack-study\\node_modules\\postcss-loader\\dist\\cjs.js??ruleSet[1].rules[2].use[3]!E:\\zll\\webpack-study\\node_modules\\sass-loader\\dist\\cjs.js!E:\\zll\\webpack-study\\src\\style\\search.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/px2rem-loader/index.js??ruleSet[1].rules[2].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!./node_modules/sass-loader/dist/cjs.js!./src/style/search.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../assets/hellofont.ttf",
+              "loc": "6:73-102",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExportDefaultDeclaration) with side effects in source code at 1:0-80"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 302,
+          "sizes": {
+            "runtime": 302
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 313,
+          "sizes": {
+            "runtime": 313
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 279,
+          "sizes": {
+            "runtime": 279
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "runtime": 27
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "entrypoints": {
+        "child": {
+          "name": "child",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [
+            {
+              "name": "5ad817c3a3852757f118cdc291b7e281.ttf"
+            }
+          ],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": null,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "child": {
+          "name": "child",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [
+            {
+              "name": "5ad817c3a3852757f118cdc291b7e281.ttf"
+            }
+          ],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": null,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    }
+  ]
+}
